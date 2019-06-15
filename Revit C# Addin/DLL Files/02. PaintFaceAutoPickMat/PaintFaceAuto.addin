@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+ <AddIn Type="Command">
+ <Assembly>E:\DEV\C# Projects\Revit C# Addin\DLL Files\PaintFaceAuto.dll</Assembly>
+ <AddInId>79E1A28D-F513-4A26-A004-D0233C975E28</AddInId>
+ <FullClassName>PaintFaceAuto.CreateViewAuto</FullClassName>
+ <Text>HelloWorld</Text>
+ <VendorId>ADSK</VendorId>
+ <VendorDescription>INEAC, abc.com</VendorDescription>
+ </AddIn>
+</RevitAddIns>

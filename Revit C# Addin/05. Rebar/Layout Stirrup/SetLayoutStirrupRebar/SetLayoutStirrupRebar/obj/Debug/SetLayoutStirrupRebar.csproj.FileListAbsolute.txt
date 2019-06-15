@@ -1,0 +1,8 @@
+E:\DEV\C# Projects\Revit C# Addin\05. Rebar\Layout Stirrup\SetLayoutStirrupRebar\SetLayoutStirrupRebar\obj\Debug\SetLayoutStirrupRebar.csprojResolveAssemblyReference.cache
+E:\DEV\C# Projects\Revit C# Addin\05. Rebar\Layout Stirrup\SetLayoutStirrupRebar\SetLayoutStirrupRebar\obj\Debug\SetLayoutStirrupRebar.Properties.Resources.resources
+E:\DEV\C# Projects\Revit C# Addin\05. Rebar\Layout Stirrup\SetLayoutStirrupRebar\SetLayoutStirrupRebar\obj\Debug\SetLayoutStirrupRebar.SettingDialog.resources
+E:\DEV\C# Projects\Revit C# Addin\05. Rebar\Layout Stirrup\SetLayoutStirrupRebar\SetLayoutStirrupRebar\obj\Debug\SetLayoutStirrupRebar.csproj.GenerateResource.Cache
+E:\DEV\C# Projects\Revit C# Addin\05. Rebar\Layout Stirrup\SetLayoutStirrupRebar\SetLayoutStirrupRebar\bin\Debug\SetLayoutStirrupRebar.dll
+E:\DEV\C# Projects\Revit C# Addin\05. Rebar\Layout Stirrup\SetLayoutStirrupRebar\SetLayoutStirrupRebar\bin\Debug\SetLayoutStirrupRebar.pdb
+E:\DEV\C# Projects\Revit C# Addin\05. Rebar\Layout Stirrup\SetLayoutStirrupRebar\SetLayoutStirrupRebar\obj\Debug\SetLayoutStirrupRebar.dll
+E:\DEV\C# Projects\Revit C# Addin\05. Rebar\Layout Stirrup\SetLayoutStirrupRebar\SetLayoutStirrupRebar\obj\Debug\SetLayoutStirrupRebar.pdb

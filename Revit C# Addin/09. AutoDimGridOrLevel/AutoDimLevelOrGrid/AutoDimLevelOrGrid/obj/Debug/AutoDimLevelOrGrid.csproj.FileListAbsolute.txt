@@ -1,0 +1,7 @@
+E:\DEV\C# Projects\Revit C# Addin\09. AutoDimGridOrLevel\AutoDimLevelOrGrid\AutoDimLevelOrGrid\bin\Debug\AutoDimLevelOrGrid.dll
+E:\DEV\C# Projects\Revit C# Addin\09. AutoDimGridOrLevel\AutoDimLevelOrGrid\AutoDimLevelOrGrid\bin\Debug\AutoDimLevelOrGrid.pdb
+E:\DEV\C# Projects\Revit C# Addin\09. AutoDimGridOrLevel\AutoDimLevelOrGrid\AutoDimLevelOrGrid\obj\Debug\AutoDimLevelOrGrid.csprojResolveAssemblyReference.cache
+E:\DEV\C# Projects\Revit C# Addin\09. AutoDimGridOrLevel\AutoDimLevelOrGrid\AutoDimLevelOrGrid\obj\Debug\AutoDimLevelOrGrid.SelectMaterialForms.resources
+E:\DEV\C# Projects\Revit C# Addin\09. AutoDimGridOrLevel\AutoDimLevelOrGrid\AutoDimLevelOrGrid\obj\Debug\AutoDimLevelOrGrid.csproj.GenerateResource.Cache
+E:\DEV\C# Projects\Revit C# Addin\09. AutoDimGridOrLevel\AutoDimLevelOrGrid\AutoDimLevelOrGrid\obj\Debug\AutoDimLevelOrGrid.dll
+E:\DEV\C# Projects\Revit C# Addin\09. AutoDimGridOrLevel\AutoDimLevelOrGrid\AutoDimLevelOrGrid\obj\Debug\AutoDimLevelOrGrid.pdb

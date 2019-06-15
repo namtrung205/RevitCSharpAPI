@@ -1,0 +1,10 @@
+E:\DEV\C# Projects\Revit C# Addin\Create View Auto\CreateElevationAuto\CreateElevationAuto\obj\Debug\CreateElevationAuto.csprojResolveAssemblyReference.cache
+E:\DEV\C# Projects\Revit C# Addin\Create View Auto\CreateElevationAuto\CreateElevationAuto\bin\Debug\CreateElevationAuto.dll
+E:\DEV\C# Projects\Revit C# Addin\Create View Auto\CreateElevationAuto\CreateElevationAuto\bin\Debug\CreateElevationAuto.pdb
+E:\DEV\C# Projects\Revit C# Addin\Create View Auto\CreateElevationAuto\CreateElevationAuto\obj\Debug\CreateElevationAuto.dll
+E:\DEV\C# Projects\Revit C# Addin\Create View Auto\CreateElevationAuto\CreateElevationAuto\obj\Debug\CreateElevationAuto.pdb
+E:\DEV\C# Projects\Revit C# Addin\Create View Auto - V2 (0321)\CreateElevationAuto\CreateElevationAuto\obj\Debug\CreateElevationAuto.csprojResolveAssemblyReference.cache
+E:\DEV\C# Projects\Revit C# Addin\Create View Auto - V2 (0321)\CreateElevationAuto\CreateElevationAuto\obj\Debug\CreateElevationAuto.dll
+E:\DEV\C# Projects\Revit C# Addin\Create View Auto - V2 (0321)\CreateElevationAuto\CreateElevationAuto\obj\Debug\CreateElevationAuto.pdb
+E:\DEV\C# Projects\Revit C# Addin\Create View Auto - V2 (0321)\CreateElevationAuto\CreateElevationAuto\bin\Debug\CreateElevationAuto.dll
+E:\DEV\C# Projects\Revit C# Addin\Create View Auto - V2 (0321)\CreateElevationAuto\CreateElevationAuto\bin\Debug\CreateElevationAuto.pdb

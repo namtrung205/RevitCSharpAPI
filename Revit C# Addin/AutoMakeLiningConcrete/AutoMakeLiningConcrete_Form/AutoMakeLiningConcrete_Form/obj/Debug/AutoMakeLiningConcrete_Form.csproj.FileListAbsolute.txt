@@ -1,0 +1,7 @@
+E:\DEV\C# Projects\Revit C# Addin\AutoMakeLiningConcrete\AutoMakeLiningConcrete_Form\AutoMakeLiningConcrete_Form\bin\Debug\AutoMakeLiningConcrete_Form.dll
+E:\DEV\C# Projects\Revit C# Addin\AutoMakeLiningConcrete\AutoMakeLiningConcrete_Form\AutoMakeLiningConcrete_Form\bin\Debug\AutoMakeLiningConcrete_Form.pdb
+E:\DEV\C# Projects\Revit C# Addin\AutoMakeLiningConcrete\AutoMakeLiningConcrete_Form\AutoMakeLiningConcrete_Form\obj\Debug\AutoMakeLiningConcrete_Form.csprojResolveAssemblyReference.cache
+E:\DEV\C# Projects\Revit C# Addin\AutoMakeLiningConcrete\AutoMakeLiningConcrete_Form\AutoMakeLiningConcrete_Form\obj\Debug\AutoMakeLiningConcrete_Form.SelectFamilyNameForms.resources
+E:\DEV\C# Projects\Revit C# Addin\AutoMakeLiningConcrete\AutoMakeLiningConcrete_Form\AutoMakeLiningConcrete_Form\obj\Debug\AutoMakeLiningConcrete_Form.csproj.GenerateResource.Cache
+E:\DEV\C# Projects\Revit C# Addin\AutoMakeLiningConcrete\AutoMakeLiningConcrete_Form\AutoMakeLiningConcrete_Form\obj\Debug\AutoMakeLiningConcrete_Form.dll
+E:\DEV\C# Projects\Revit C# Addin\AutoMakeLiningConcrete\AutoMakeLiningConcrete_Form\AutoMakeLiningConcrete_Form\obj\Debug\AutoMakeLiningConcrete_Form.pdb

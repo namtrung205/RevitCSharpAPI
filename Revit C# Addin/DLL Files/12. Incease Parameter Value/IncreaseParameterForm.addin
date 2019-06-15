@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+ <AddIn Type="Command">
+ <Assembly>E:\DEV\C# Projects\Revit C# Addin\DLL Files\12. Incease Parameter Value\IncreaseParameterForm.dll</Assembly>
+ <AddInId>F68829EF-0540-42B8-9F5C-37972E069E6B</AddInId>
+ <FullClassName>IncreaseParameterForm.mainCS</FullClassName>
+ <Text>IPV</Text>
+ <VendorId>ADSK</VendorId>
+ <VendorDescription>INEAC, abc.com</VendorDescription>
+ </AddIn>
+</RevitAddIns>

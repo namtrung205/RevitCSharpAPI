@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+ <AddIn Type="Command">
+ <Assembly>E:\DEV\C# Projects\Revit C# Addin\DLL Files\07. Make Group Rebar By Host\MakeGroupRebarByHost.dll</Assembly>
+ <AddInId>25599A30-6E82-4E37-AA55-D67152A9E0D3</AddInId>
+ <FullClassName>MakeGroupRebarByHost.MakeGroupRebarByHost</FullClassName>
+ <Text>MGRBH</Text>
+ <VendorId>ADSK</VendorId>
+ <VendorDescription>INEAC, abc.com</VendorDescription>
+ </AddIn>
+</RevitAddIns>

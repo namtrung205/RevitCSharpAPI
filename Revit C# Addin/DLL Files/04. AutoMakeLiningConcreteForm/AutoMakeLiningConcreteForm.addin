@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+ <AddIn Type="Command">
+ <Assembly>E:\DEV\C# Projects\Revit C# Addin\DLL Files\04. AutoMakeLiningConcreteForm\AutoMakeLiningConcrete_Form.dll</Assembly>
+ <AddInId>EBD72940-FD47-4082-B53B-1BF13937F4CB</AddInId>
+ <FullClassName>AutoMakeLiningConcrete_Form.AutoMakeLiningConcrete_Form</FullClassName>
+ <Text>AML</Text>
+ <VendorId>ADSK</VendorId>
+ <VendorDescription>INEAC, abc.com</VendorDescription>
+ </AddIn>
+</RevitAddIns>

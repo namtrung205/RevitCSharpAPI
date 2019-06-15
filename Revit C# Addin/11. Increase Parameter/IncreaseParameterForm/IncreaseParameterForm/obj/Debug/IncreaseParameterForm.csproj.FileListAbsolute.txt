@@ -1,0 +1,7 @@
+E:\DEV\C# Projects\Revit C# Addin\11. Increase Parameter\IncreaseParameterForm\IncreaseParameterForm\bin\Debug\IncreaseParameterForm.dll
+E:\DEV\C# Projects\Revit C# Addin\11. Increase Parameter\IncreaseParameterForm\IncreaseParameterForm\bin\Debug\IncreaseParameterForm.pdb
+E:\DEV\C# Projects\Revit C# Addin\11. Increase Parameter\IncreaseParameterForm\IncreaseParameterForm\obj\Debug\IncreaseParameterForm.csprojResolveAssemblyReference.cache
+E:\DEV\C# Projects\Revit C# Addin\11. Increase Parameter\IncreaseParameterForm\IncreaseParameterForm\obj\Debug\IncreaseParameterForm.IncreaseParameterForm.resources
+E:\DEV\C# Projects\Revit C# Addin\11. Increase Parameter\IncreaseParameterForm\IncreaseParameterForm\obj\Debug\IncreaseParameterForm.csproj.GenerateResource.Cache
+E:\DEV\C# Projects\Revit C# Addin\11. Increase Parameter\IncreaseParameterForm\IncreaseParameterForm\obj\Debug\IncreaseParameterForm.dll
+E:\DEV\C# Projects\Revit C# Addin\11. Increase Parameter\IncreaseParameterForm\IncreaseParameterForm\obj\Debug\IncreaseParameterForm.pdb

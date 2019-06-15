@@ -1,0 +1,5 @@
+C:\Users\NAMTRUNG205\Documents\Visual Studio 2015\Projects\PaintFaceAuto\PaintFaceAuto\obj\Debug\PaintFaceAuto.csprojResolveAssemblyReference.cache
+C:\Users\NAMTRUNG205\Documents\Visual Studio 2015\Projects\PaintFaceAuto\PaintFaceAuto\bin\Debug\PaintFaceAuto.dll
+C:\Users\NAMTRUNG205\Documents\Visual Studio 2015\Projects\PaintFaceAuto\PaintFaceAuto\bin\Debug\PaintFaceAuto.pdb
+C:\Users\NAMTRUNG205\Documents\Visual Studio 2015\Projects\PaintFaceAuto\PaintFaceAuto\obj\Debug\PaintFaceAuto.dll
+C:\Users\NAMTRUNG205\Documents\Visual Studio 2015\Projects\PaintFaceAuto\PaintFaceAuto\obj\Debug\PaintFaceAuto.pdb

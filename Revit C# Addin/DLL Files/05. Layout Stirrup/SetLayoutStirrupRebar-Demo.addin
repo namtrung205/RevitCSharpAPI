@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+ <AddIn Type="Command">
+ <Assembly>E:\DEV\C# Projects\Revit C# Addin\DLL Files\05. Layout Stirrup\SetLayoutStirrupRebar.dll</Assembly>
+ <AddInId>B99FEFE1-83B1-48A1-9A43-B3A086E35D09</AddInId>
+ <FullClassName>SetLayoutStirrupRebar.SetLayoutStirrupRebar</FullClassName>
+ <Text>SLSR</Text>
+ <VendorId>ADSK</VendorId>
+ <VendorDescription>INEAC, abc.com</VendorDescription>
+ </AddIn>
+</RevitAddIns>

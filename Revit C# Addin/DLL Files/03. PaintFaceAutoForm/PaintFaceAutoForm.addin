@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+ <AddIn Type="Command">
+ <Assembly>E:\DEV\C# Projects\Revit C# Addin\DLL Files\PaintFaceAutoForm.dll</Assembly>
+ <AddInId>3EB832CC-864E-4E49-B43F-D59F8289485C</AddInId>
+ <FullClassName>PaintFaceAuto.PaintFaceAuto</FullClassName>
+ <Text>PFA2</Text>
+ <VendorId>ADSK</VendorId>
+ <VendorDescription>INEAC, abc.com</VendorDescription>
+ </AddIn>
+</RevitAddIns>

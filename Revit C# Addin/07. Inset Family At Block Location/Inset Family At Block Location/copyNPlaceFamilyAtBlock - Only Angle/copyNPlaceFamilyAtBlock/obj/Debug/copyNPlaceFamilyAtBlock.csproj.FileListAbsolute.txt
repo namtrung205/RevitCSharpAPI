@@ -1,0 +1,16 @@
+E:\DEV\C# Projects\Revit C# Addin\07. Inset Family At Block Location\Inset Family At Block Location\copyNPlaceFamilyAtBlock\copyNPlaceFamilyAtBlock\bin\Debug\copyNPlaceFamilyAtBlock.dll
+E:\DEV\C# Projects\Revit C# Addin\07. Inset Family At Block Location\Inset Family At Block Location\copyNPlaceFamilyAtBlock\copyNPlaceFamilyAtBlock\bin\Debug\copyNPlaceFamilyAtBlock.pdb
+E:\DEV\C# Projects\Revit C# Addin\07. Inset Family At Block Location\Inset Family At Block Location\copyNPlaceFamilyAtBlock\copyNPlaceFamilyAtBlock\obj\Debug\copyNPlaceFamilyAtBlock.csprojResolveAssemblyReference.cache
+E:\DEV\C# Projects\Revit C# Addin\07. Inset Family At Block Location\Inset Family At Block Location\copyNPlaceFamilyAtBlock\copyNPlaceFamilyAtBlock\obj\Debug\copyNPlaceFamilyAtBlock.Properties.Resources.resources
+E:\DEV\C# Projects\Revit C# Addin\07. Inset Family At Block Location\Inset Family At Block Location\copyNPlaceFamilyAtBlock\copyNPlaceFamilyAtBlock\obj\Debug\copyNPlaceFamilyAtBlock.SettingDialog.resources
+E:\DEV\C# Projects\Revit C# Addin\07. Inset Family At Block Location\Inset Family At Block Location\copyNPlaceFamilyAtBlock\copyNPlaceFamilyAtBlock\obj\Debug\copyNPlaceFamilyAtBlock.csproj.GenerateResource.Cache
+E:\DEV\C# Projects\Revit C# Addin\07. Inset Family At Block Location\Inset Family At Block Location\copyNPlaceFamilyAtBlock\copyNPlaceFamilyAtBlock\obj\Debug\copyNPlaceFamilyAtBlock.dll
+E:\DEV\C# Projects\Revit C# Addin\07. Inset Family At Block Location\Inset Family At Block Location\copyNPlaceFamilyAtBlock\copyNPlaceFamilyAtBlock\obj\Debug\copyNPlaceFamilyAtBlock.pdb
+E:\DEV\C# Projects\Revit C# Addin\07. Inset Family At Block Location\Inset Family At Block Location\copyNPlaceFamilyAtBlock - Only Angle\copyNPlaceFamilyAtBlock\bin\Debug\copyNPlaceFamilyAtBlock.dll
+E:\DEV\C# Projects\Revit C# Addin\07. Inset Family At Block Location\Inset Family At Block Location\copyNPlaceFamilyAtBlock - Only Angle\copyNPlaceFamilyAtBlock\bin\Debug\copyNPlaceFamilyAtBlock.pdb
+E:\DEV\C# Projects\Revit C# Addin\07. Inset Family At Block Location\Inset Family At Block Location\copyNPlaceFamilyAtBlock - Only Angle\copyNPlaceFamilyAtBlock\obj\Debug\copyNPlaceFamilyAtBlock.csprojResolveAssemblyReference.cache
+E:\DEV\C# Projects\Revit C# Addin\07. Inset Family At Block Location\Inset Family At Block Location\copyNPlaceFamilyAtBlock - Only Angle\copyNPlaceFamilyAtBlock\obj\Debug\copyNPlaceFamilyAtBlock.Properties.Resources.resources
+E:\DEV\C# Projects\Revit C# Addin\07. Inset Family At Block Location\Inset Family At Block Location\copyNPlaceFamilyAtBlock - Only Angle\copyNPlaceFamilyAtBlock\obj\Debug\copyNPlaceFamilyAtBlock.SettingDialog.resources
+E:\DEV\C# Projects\Revit C# Addin\07. Inset Family At Block Location\Inset Family At Block Location\copyNPlaceFamilyAtBlock - Only Angle\copyNPlaceFamilyAtBlock\obj\Debug\copyNPlaceFamilyAtBlock.csproj.GenerateResource.Cache
+E:\DEV\C# Projects\Revit C# Addin\07. Inset Family At Block Location\Inset Family At Block Location\copyNPlaceFamilyAtBlock - Only Angle\copyNPlaceFamilyAtBlock\obj\Debug\copyNPlaceFamilyAtBlock.dll
+E:\DEV\C# Projects\Revit C# Addin\07. Inset Family At Block Location\Inset Family At Block Location\copyNPlaceFamilyAtBlock - Only Angle\copyNPlaceFamilyAtBlock\obj\Debug\copyNPlaceFamilyAtBlock.pdb

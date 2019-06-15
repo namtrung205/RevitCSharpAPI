@@ -1,0 +1,7 @@
+E:\DEV\C# Projects\Revit C# Addin\08. FilterByParameter\FilterByParameterValue\FilterByParameterValue\bin\Debug\FilterByParameterValue.dll
+E:\DEV\C# Projects\Revit C# Addin\08. FilterByParameter\FilterByParameterValue\FilterByParameterValue\bin\Debug\FilterByParameterValue.pdb
+E:\DEV\C# Projects\Revit C# Addin\08. FilterByParameter\FilterByParameterValue\FilterByParameterValue\obj\Debug\FilterByParameterValue.csprojResolveAssemblyReference.cache
+E:\DEV\C# Projects\Revit C# Addin\08. FilterByParameter\FilterByParameterValue\FilterByParameterValue\obj\Debug\FilterByParameterValue.FilterForm.resources
+E:\DEV\C# Projects\Revit C# Addin\08. FilterByParameter\FilterByParameterValue\FilterByParameterValue\obj\Debug\FilterByParameterValue.csproj.GenerateResource.Cache
+E:\DEV\C# Projects\Revit C# Addin\08. FilterByParameter\FilterByParameterValue\FilterByParameterValue\obj\Debug\FilterByParameterValue.dll
+E:\DEV\C# Projects\Revit C# Addin\08. FilterByParameter\FilterByParameterValue\FilterByParameterValue\obj\Debug\FilterByParameterValue.pdb

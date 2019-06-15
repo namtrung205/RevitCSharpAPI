@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+ <AddIn Type="Command">
+ <Assembly>E:\DEV\C# Projects\Revit C# Addin\DLL Files\08. Place Family by Coordinate\copyNPlaceFamilyAtBlock2.dll</Assembly>
+ <AddInId>61C5853A-CBD2-46A3-9F70-3717F8B3106F</AddInId>
+ <FullClassName>copyNPlaceFamilyAtBlock.copyNPlaceFamilyAtBlock</FullClassName>
+ <Text>CNPFAB</Text>
+ <VendorId>ADSK</VendorId>
+ <VendorDescription>INEAC, abc.com</VendorDescription>
+ </AddIn>
+</RevitAddIns>

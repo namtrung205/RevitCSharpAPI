@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+ <AddIn Type="Command">
+ <Assembly>E:\DEV\C# Projects\Revit C# Addin\DLL Files\08. Place Family by Coordinate\PlaceFamilyAtLocBlock.dll</Assembly>
+ <AddInId>D7A773B8-2D0E-4B78-B70E-0DF8929F96E5</AddInId>
+ <FullClassName>PlaceFamilyAtLocBlock.PlaceFamilyAtLocBlock</FullClassName>
+ <Text>MGRBH</Text>
+ <VendorId>ADSK</VendorId>
+ <VendorDescription>INEAC, abc.com</VendorDescription>
+ </AddIn>
+</RevitAddIns>

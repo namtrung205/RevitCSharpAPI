@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+ <AddIn Type="Command">
+ <Assembly>E:\DEV\C# Projects\Revit C# Addin\DLL Files\06. Rebar beam\RebarBeam_Top.dll</Assembly>
+ <AddInId>C52821CD-46F3-43D1-831F-F0D69CFB10D3</AddInId>
+ <FullClassName>SetLayoutStirrupRebar.RebarBeamTop</FullClassName>
+ <Text>RBT</Text>
+ <VendorId>ADSK</VendorId>
+ <VendorDescription>INEAC, abc.com</VendorDescription>
+ </AddIn>
+</RevitAddIns>

@@ -1,0 +1,8 @@
+E:\DEV\C# Projects\Revit C# Addin\07. Inset Family At Block Location\Inset Family At Block Location\PlaceFamilyAtLocBlock\PlaceFamilyAtLocBlock\bin\Debug\PlaceFamilyAtLocBlock.dll
+E:\DEV\C# Projects\Revit C# Addin\07. Inset Family At Block Location\Inset Family At Block Location\PlaceFamilyAtLocBlock\PlaceFamilyAtLocBlock\bin\Debug\PlaceFamilyAtLocBlock.pdb
+E:\DEV\C# Projects\Revit C# Addin\07. Inset Family At Block Location\Inset Family At Block Location\PlaceFamilyAtLocBlock\PlaceFamilyAtLocBlock\obj\Debug\PlaceFamilyAtLocBlock.csprojResolveAssemblyReference.cache
+E:\DEV\C# Projects\Revit C# Addin\07. Inset Family At Block Location\Inset Family At Block Location\PlaceFamilyAtLocBlock\PlaceFamilyAtLocBlock\obj\Debug\PlaceFamilyAtLocBlock.Properties.Resources.resources
+E:\DEV\C# Projects\Revit C# Addin\07. Inset Family At Block Location\Inset Family At Block Location\PlaceFamilyAtLocBlock\PlaceFamilyAtLocBlock\obj\Debug\PlaceFamilyAtLocBlock.SettingDialog.resources
+E:\DEV\C# Projects\Revit C# Addin\07. Inset Family At Block Location\Inset Family At Block Location\PlaceFamilyAtLocBlock\PlaceFamilyAtLocBlock\obj\Debug\PlaceFamilyAtLocBlock.csproj.GenerateResource.Cache
+E:\DEV\C# Projects\Revit C# Addin\07. Inset Family At Block Location\Inset Family At Block Location\PlaceFamilyAtLocBlock\PlaceFamilyAtLocBlock\obj\Debug\PlaceFamilyAtLocBlock.dll
+E:\DEV\C# Projects\Revit C# Addin\07. Inset Family At Block Location\Inset Family At Block Location\PlaceFamilyAtLocBlock\PlaceFamilyAtLocBlock\obj\Debug\PlaceFamilyAtLocBlock.pdb

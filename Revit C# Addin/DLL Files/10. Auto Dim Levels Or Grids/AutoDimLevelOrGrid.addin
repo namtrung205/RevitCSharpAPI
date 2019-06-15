@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+ <AddIn Type="Command">
+ <Assembly>E:\DEV\C# Projects\Revit C# Addin\DLL Files\10. Auto Dim Levels Or Grids\AutoDimLevelOrGrid.dll</Assembly>
+ <AddInId>CF9438F2-87AC-4C8E-A359-9298D7AE1F1F</AddInId>
+ <FullClassName>AutoDimLevelOrGrid.AutoDimLevelOrGrid</FullClassName>
+ <Text>ADLOG</Text>
+ <VendorId>ADSK</VendorId>
+ <VendorDescription>INEAC, abc.com</VendorDescription>
+ </AddIn>
+</RevitAddIns>

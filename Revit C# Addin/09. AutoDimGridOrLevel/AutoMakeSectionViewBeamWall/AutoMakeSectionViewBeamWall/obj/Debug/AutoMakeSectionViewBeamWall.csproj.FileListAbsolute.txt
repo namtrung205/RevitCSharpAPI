@@ -1,0 +1,7 @@
+E:\DEV\C# Projects\Revit C# Addin\09. AutoDimGridOrLevel\AutoMakeSectionViewBeamWall\AutoMakeSectionViewBeamWall\bin\Debug\AutoMakeSectionViewBeamWall.dll
+E:\DEV\C# Projects\Revit C# Addin\09. AutoDimGridOrLevel\AutoMakeSectionViewBeamWall\AutoMakeSectionViewBeamWall\bin\Debug\AutoMakeSectionViewBeamWall.pdb
+E:\DEV\C# Projects\Revit C# Addin\09. AutoDimGridOrLevel\AutoMakeSectionViewBeamWall\AutoMakeSectionViewBeamWall\obj\Debug\AutoMakeSectionViewBeamWall.csprojResolveAssemblyReference.cache
+E:\DEV\C# Projects\Revit C# Addin\09. AutoDimGridOrLevel\AutoMakeSectionViewBeamWall\AutoMakeSectionViewBeamWall\obj\Debug\AutoMakeSectionViewBeamWall.SelectMaterialForms.resources
+E:\DEV\C# Projects\Revit C# Addin\09. AutoDimGridOrLevel\AutoMakeSectionViewBeamWall\AutoMakeSectionViewBeamWall\obj\Debug\AutoMakeSectionViewBeamWall.csproj.GenerateResource.Cache
+E:\DEV\C# Projects\Revit C# Addin\09. AutoDimGridOrLevel\AutoMakeSectionViewBeamWall\AutoMakeSectionViewBeamWall\obj\Debug\AutoMakeSectionViewBeamWall.dll
+E:\DEV\C# Projects\Revit C# Addin\09. AutoDimGridOrLevel\AutoMakeSectionViewBeamWall\AutoMakeSectionViewBeamWall\obj\Debug\AutoMakeSectionViewBeamWall.pdb

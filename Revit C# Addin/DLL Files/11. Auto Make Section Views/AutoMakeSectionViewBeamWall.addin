@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+ <AddIn Type="Command">
+ <Assembly>E:\DEV\C# Projects\Revit C# Addin\DLL Files\11. Auto Make Section Views\AutoMakeSectionViewBeamWall.dll</Assembly>
+ <AddInId>79226C29-8E4F-4B07-8EB4-622C17EDB5D3</AddInId>
+ <FullClassName>AutoMakeSectionViewBeamWall.AutoMakeSectionViewBeamWall</FullClassName>
+ <Text>AMSV</Text>
+ <VendorId>ADSK</VendorId>
+ <VendorDescription>INEAC, abc.com</VendorDescription>
+ </AddIn>
+</RevitAddIns>
