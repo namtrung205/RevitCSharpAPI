@@ -1,0 +1,5 @@
+C:\ProgramData\Autodesk\Revit\Macros\2019\Revit\AppHookup\WorkingWithSelection\AddIn\WorkingWithSelection.dll
+C:\ProgramData\Autodesk\Revit\Macros\2019\Revit\AppHookup\WorkingWithSelection\AddIn\WorkingWithSelection.pdb
+C:\ProgramData\Autodesk\Revit\Macros\2019\Revit\AppHookup\WorkingWithSelection\Source\WorkingWithSelection\obj\Debug\WorkingWithSelection.csprojResolveAssemblyReference.cache
+C:\ProgramData\Autodesk\Revit\Macros\2019\Revit\AppHookup\WorkingWithSelection\Source\WorkingWithSelection\obj\Debug\WorkingWithSelection.dll
+C:\ProgramData\Autodesk\Revit\Macros\2019\Revit\AppHookup\WorkingWithSelection\Source\WorkingWithSelection\obj\Debug\WorkingWithSelection.pdb

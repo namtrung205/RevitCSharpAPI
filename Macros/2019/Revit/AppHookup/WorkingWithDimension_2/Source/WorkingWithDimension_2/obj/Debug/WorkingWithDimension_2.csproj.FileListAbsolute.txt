@@ -1,0 +1,5 @@
+C:\ProgramData\Autodesk\Revit\Macros\2019\Revit\AppHookup\WorkingWithDimension_2\AddIn\WorkingWithDimension_2.dll
+C:\ProgramData\Autodesk\Revit\Macros\2019\Revit\AppHookup\WorkingWithDimension_2\AddIn\WorkingWithDimension_2.pdb
+C:\ProgramData\Autodesk\Revit\Macros\2019\Revit\AppHookup\WorkingWithDimension_2\Source\WorkingWithDimension_2\obj\Debug\WorkingWithDimension_2.csprojResolveAssemblyReference.cache
+C:\ProgramData\Autodesk\Revit\Macros\2019\Revit\AppHookup\WorkingWithDimension_2\Source\WorkingWithDimension_2\obj\Debug\WorkingWithDimension_2.dll
+C:\ProgramData\Autodesk\Revit\Macros\2019\Revit\AppHookup\WorkingWithDimension_2\Source\WorkingWithDimension_2\obj\Debug\WorkingWithDimension_2.pdb

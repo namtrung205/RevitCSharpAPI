@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.2.0.8783
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkingWithDimension_2", "WorkingWithDimension_2\WorkingWithDimension_2.csproj", "{903C6268-CE7C-47FA-9CBB-C24601008EA7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{903C6268-CE7C-47FA-9CBB-C24601008EA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{903C6268-CE7C-47FA-9CBB-C24601008EA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{903C6268-CE7C-47FA-9CBB-C24601008EA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{903C6268-CE7C-47FA-9CBB-C24601008EA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+EndGlobal

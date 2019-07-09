@@ -1,0 +1,5 @@
+C:\ProgramData\Autodesk\Revit\Macros\2019\Revit\AppHookup\WorkWithRoom\AddIn\WorkWithRoom.dll
+C:\ProgramData\Autodesk\Revit\Macros\2019\Revit\AppHookup\WorkWithRoom\AddIn\WorkWithRoom.pdb
+C:\ProgramData\Autodesk\Revit\Macros\2019\Revit\AppHookup\WorkWithRoom\Source\WorkWithRoom\obj\Debug\WorkWithRoom.dll
+C:\ProgramData\Autodesk\Revit\Macros\2019\Revit\AppHookup\WorkWithRoom\Source\WorkWithRoom\obj\Debug\WorkWithRoom.pdb
+C:\ProgramData\Autodesk\Revit\Macros\2019\Revit\AppHookup\WorkWithRoom\Source\WorkWithRoom\obj\Debug\WorkWithRoom.csprojResolveAssemblyReference.cache

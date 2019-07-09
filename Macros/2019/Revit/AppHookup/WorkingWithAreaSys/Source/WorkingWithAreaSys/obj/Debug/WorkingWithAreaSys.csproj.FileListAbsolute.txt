@@ -1,0 +1,5 @@
+C:\ProgramData\Autodesk\Revit\Macros\2019\Revit\AppHookup\WorkingWithAreaSys\AddIn\WorkingWithAreaSys.dll
+C:\ProgramData\Autodesk\Revit\Macros\2019\Revit\AppHookup\WorkingWithAreaSys\AddIn\WorkingWithAreaSys.pdb
+C:\ProgramData\Autodesk\Revit\Macros\2019\Revit\AppHookup\WorkingWithAreaSys\Source\WorkingWithAreaSys\obj\Debug\WorkingWithAreaSys.csprojResolveAssemblyReference.cache
+C:\ProgramData\Autodesk\Revit\Macros\2019\Revit\AppHookup\WorkingWithAreaSys\Source\WorkingWithAreaSys\obj\Debug\WorkingWithAreaSys.dll
+C:\ProgramData\Autodesk\Revit\Macros\2019\Revit\AppHookup\WorkingWithAreaSys\Source\WorkingWithAreaSys\obj\Debug\WorkingWithAreaSys.pdb

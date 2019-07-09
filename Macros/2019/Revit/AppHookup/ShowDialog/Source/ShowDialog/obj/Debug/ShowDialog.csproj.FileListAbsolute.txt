@@ -1,0 +1,7 @@
+C:\ProgramData\Autodesk\Revit\Macros\2019\Revit\AppHookup\ShowDialog\AddIn\ShowDialog.dll
+C:\ProgramData\Autodesk\Revit\Macros\2019\Revit\AppHookup\ShowDialog\AddIn\ShowDialog.pdb
+C:\ProgramData\Autodesk\Revit\Macros\2019\Revit\AppHookup\ShowDialog\Source\ShowDialog\obj\Debug\ShowDialog.csprojResolveAssemblyReference.cache
+C:\ProgramData\Autodesk\Revit\Macros\2019\Revit\AppHookup\ShowDialog\Source\ShowDialog\obj\Debug\ShowDialog.dll
+C:\ProgramData\Autodesk\Revit\Macros\2019\Revit\AppHookup\ShowDialog\Source\ShowDialog\obj\Debug\ShowDialog.pdb
+C:\ProgramData\Autodesk\Revit\Macros\2019\Revit\AppHookup\ShowDialog\Source\ShowDialog\obj\Debug\ShowDialog.csproj.GenerateResource.Cache
+C:\ProgramData\Autodesk\Revit\Macros\2019\Revit\AppHookup\ShowDialog\Source\ShowDialog\obj\Debug\ShowDialog.InputNumber.resources

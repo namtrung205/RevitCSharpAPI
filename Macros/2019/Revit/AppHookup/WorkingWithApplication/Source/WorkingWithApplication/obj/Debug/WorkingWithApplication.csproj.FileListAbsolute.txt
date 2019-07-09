@@ -1,0 +1,5 @@
+C:\ProgramData\Autodesk\Revit\Macros\2019\Revit\AppHookup\WorkingWithApplication\AddIn\WorkingWithApplication.dll
+C:\ProgramData\Autodesk\Revit\Macros\2019\Revit\AppHookup\WorkingWithApplication\AddIn\WorkingWithApplication.pdb
+C:\ProgramData\Autodesk\Revit\Macros\2019\Revit\AppHookup\WorkingWithApplication\Source\WorkingWithApplication\obj\Debug\WorkingWithApplication.csprojResolveAssemblyReference.cache
+C:\ProgramData\Autodesk\Revit\Macros\2019\Revit\AppHookup\WorkingWithApplication\Source\WorkingWithApplication\obj\Debug\WorkingWithApplication.dll
+C:\ProgramData\Autodesk\Revit\Macros\2019\Revit\AppHookup\WorkingWithApplication\Source\WorkingWithApplication\obj\Debug\WorkingWithApplication.pdb

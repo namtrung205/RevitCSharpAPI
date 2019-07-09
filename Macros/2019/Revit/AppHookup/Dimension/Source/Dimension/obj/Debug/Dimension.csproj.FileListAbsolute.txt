@@ -1,0 +1,5 @@
+C:\ProgramData\Autodesk\Revit\Macros\2019\Revit\AppHookup\Dimension\AddIn\Dimension.dll
+C:\ProgramData\Autodesk\Revit\Macros\2019\Revit\AppHookup\Dimension\AddIn\Dimension.pdb
+C:\ProgramData\Autodesk\Revit\Macros\2019\Revit\AppHookup\Dimension\Source\Dimension\obj\Debug\Dimension.csprojResolveAssemblyReference.cache
+C:\ProgramData\Autodesk\Revit\Macros\2019\Revit\AppHookup\Dimension\Source\Dimension\obj\Debug\Dimension.dll
+C:\ProgramData\Autodesk\Revit\Macros\2019\Revit\AppHookup\Dimension\Source\Dimension\obj\Debug\Dimension.pdb

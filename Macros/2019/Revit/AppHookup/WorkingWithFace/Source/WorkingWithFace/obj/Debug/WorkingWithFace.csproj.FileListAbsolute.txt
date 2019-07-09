@@ -1,0 +1,8 @@
+C:\ProgramData\Autodesk\Revit\Macros\2019\Revit\AppHookup\WorkingWithFace\AddIn\WorkingWithFace.dll
+C:\ProgramData\Autodesk\Revit\Macros\2019\Revit\AppHookup\WorkingWithFace\AddIn\WorkingWithFace.pdb
+C:\ProgramData\Autodesk\Revit\Macros\2019\Revit\AppHookup\WorkingWithFace\Source\WorkingWithFace\obj\Debug\WorkingWithFace.csprojResolveAssemblyReference.cache
+C:\ProgramData\Autodesk\Revit\Macros\2019\Revit\AppHookup\WorkingWithFace\Source\WorkingWithFace\obj\Debug\WorkingWithFace.dll
+C:\ProgramData\Autodesk\Revit\Macros\2019\Revit\AppHookup\WorkingWithFace\Source\WorkingWithFace\obj\Debug\WorkingWithFace.pdb
+C:\ProgramData\Autodesk\Revit\Macros\2019\Revit\AppHookup\WorkingWithFace\Source\WorkingWithFace\obj\Debug\WorkingWithFace.SelectMaterialForms.resources
+C:\ProgramData\Autodesk\Revit\Macros\2019\Revit\AppHookup\WorkingWithFace\Source\WorkingWithFace\obj\Debug\WorkingWithFace.csproj.GenerateResource.Cache
+C:\ProgramData\Autodesk\Revit\Macros\2019\Revit\AppHookup\WorkingWithFace\Source\WorkingWithFace\obj\Debug\WorkingWithFace.SelectFamilySlab.resources

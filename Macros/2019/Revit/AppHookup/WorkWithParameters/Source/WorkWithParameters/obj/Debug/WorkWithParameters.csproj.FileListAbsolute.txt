@@ -1,0 +1,9 @@
+C:\ProgramData\Autodesk\Revit\Macros\2019\Revit\AppHookup\WorkWithParameters\AddIn\WorkWithParameters.dll
+C:\ProgramData\Autodesk\Revit\Macros\2019\Revit\AppHookup\WorkWithParameters\AddIn\WorkWithParameters.pdb
+C:\ProgramData\Autodesk\Revit\Macros\2019\Revit\AppHookup\WorkWithParameters\Source\WorkWithParameters\obj\Debug\WorkWithParameters.csprojResolveAssemblyReference.cache
+C:\ProgramData\Autodesk\Revit\Macros\2019\Revit\AppHookup\WorkWithParameters\Source\WorkWithParameters\obj\Debug\WorkWithParameters.dll
+C:\ProgramData\Autodesk\Revit\Macros\2019\Revit\AppHookup\WorkWithParameters\Source\WorkWithParameters\obj\Debug\WorkWithParameters.pdb
+C:\ProgramData\Autodesk\Revit\Macros\2019\Revit\AppHookup\WorkWithParameters\Source\WorkWithParameters\obj\Debug\WorkWithParameters.FilterForm.resources
+C:\ProgramData\Autodesk\Revit\Macros\2019\Revit\AppHookup\WorkWithParameters\Source\WorkWithParameters\obj\Debug\WorkWithParameters.csproj.GenerateResource.Cache
+C:\ProgramData\Autodesk\Revit\Macros\2019\Revit\AppHookup\WorkWithParameters\Source\WorkWithParameters\obj\Debug\WorkWithParameters.IncreaseParameterForm.resources
+C:\ProgramData\Autodesk\Revit\Macros\2019\Revit\AppHookup\WorkWithParameters\Source\WorkWithParameters\obj\Debug\WorkWithParameters.ShowElemByParameter_Form.resources

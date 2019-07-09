@@ -1,0 +1,5 @@
+C:\ProgramData\Autodesk\Revit\Macros\2019\Revit\AppHookup\TestCSharp\AddIn\TestCSharp.dll
+C:\ProgramData\Autodesk\Revit\Macros\2019\Revit\AppHookup\TestCSharp\AddIn\TestCSharp.pdb
+C:\ProgramData\Autodesk\Revit\Macros\2019\Revit\AppHookup\TestCSharp\Source\TestCSharp\obj\Debug\TestCSharp.csprojResolveAssemblyReference.cache
+C:\ProgramData\Autodesk\Revit\Macros\2019\Revit\AppHookup\TestCSharp\Source\TestCSharp\obj\Debug\TestCSharp.dll
+C:\ProgramData\Autodesk\Revit\Macros\2019\Revit\AppHookup\TestCSharp\Source\TestCSharp\obj\Debug\TestCSharp.pdb

@@ -1,0 +1,5 @@
+C:\ProgramData\Autodesk\Revit\Macros\2019\Revit\AppHookup\WorkingWithImportInstance\AddIn\WorkingWithImportInstance.dll
+C:\ProgramData\Autodesk\Revit\Macros\2019\Revit\AppHookup\WorkingWithImportInstance\AddIn\WorkingWithImportInstance.pdb
+C:\ProgramData\Autodesk\Revit\Macros\2019\Revit\AppHookup\WorkingWithImportInstance\Source\WorkingWithImportInstance\obj\Debug\WorkingWithImportInstance.csprojResolveAssemblyReference.cache
+C:\ProgramData\Autodesk\Revit\Macros\2019\Revit\AppHookup\WorkingWithImportInstance\Source\WorkingWithImportInstance\obj\Debug\WorkingWithImportInstance.dll
+C:\ProgramData\Autodesk\Revit\Macros\2019\Revit\AppHookup\WorkingWithImportInstance\Source\WorkingWithImportInstance\obj\Debug\WorkingWithImportInstance.pdb

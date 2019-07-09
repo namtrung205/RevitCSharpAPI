@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.2.0.8783
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkingWihtTag", "WorkingWihtTag\WorkingWihtTag.csproj", "{A6834C01-D18E-4D19-9A70-1AE0A709EDD3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A6834C01-D18E-4D19-9A70-1AE0A709EDD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6834C01-D18E-4D19-9A70-1AE0A709EDD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6834C01-D18E-4D19-9A70-1AE0A709EDD3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6834C01-D18E-4D19-9A70-1AE0A709EDD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+EndGlobal

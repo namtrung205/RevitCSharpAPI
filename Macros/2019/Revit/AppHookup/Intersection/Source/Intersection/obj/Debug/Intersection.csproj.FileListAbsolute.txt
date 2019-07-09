@@ -1,0 +1,5 @@
+C:\ProgramData\Autodesk\Revit\Macros\2019\Revit\AppHookup\Intersection\AddIn\Intersection.dll
+C:\ProgramData\Autodesk\Revit\Macros\2019\Revit\AppHookup\Intersection\AddIn\Intersection.pdb
+C:\ProgramData\Autodesk\Revit\Macros\2019\Revit\AppHookup\Intersection\Source\Intersection\obj\Debug\Intersection.csprojResolveAssemblyReference.cache
+C:\ProgramData\Autodesk\Revit\Macros\2019\Revit\AppHookup\Intersection\Source\Intersection\obj\Debug\Intersection.dll
+C:\ProgramData\Autodesk\Revit\Macros\2019\Revit\AppHookup\Intersection\Source\Intersection\obj\Debug\Intersection.pdb

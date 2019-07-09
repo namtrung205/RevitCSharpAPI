@@ -1,0 +1,5 @@
+C:\ProgramData\Autodesk\Revit\Macros\2019\Revit\AppHookup\Datum\AddIn\Datum.dll
+C:\ProgramData\Autodesk\Revit\Macros\2019\Revit\AppHookup\Datum\AddIn\Datum.pdb
+C:\ProgramData\Autodesk\Revit\Macros\2019\Revit\AppHookup\Datum\Source\Datum\obj\Debug\Datum.csprojResolveAssemblyReference.cache
+C:\ProgramData\Autodesk\Revit\Macros\2019\Revit\AppHookup\Datum\Source\Datum\obj\Debug\Datum.dll
+C:\ProgramData\Autodesk\Revit\Macros\2019\Revit\AppHookup\Datum\Source\Datum\obj\Debug\Datum.pdb

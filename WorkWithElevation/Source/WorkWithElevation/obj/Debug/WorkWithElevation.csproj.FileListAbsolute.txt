@@ -1,5 +1,0 @@
-C:\ProgramData\Autodesk\Revit\Macros\2019\Revit\AppHookup\WorkWithElevation\AddIn\WorkWithElevation.dll
-C:\ProgramData\Autodesk\Revit\Macros\2019\Revit\AppHookup\WorkWithElevation\AddIn\WorkWithElevation.pdb
-C:\ProgramData\Autodesk\Revit\Macros\2019\Revit\AppHookup\WorkWithElevation\Source\WorkWithElevation\obj\Debug\WorkWithElevation.dll
-C:\ProgramData\Autodesk\Revit\Macros\2019\Revit\AppHookup\WorkWithElevation\Source\WorkWithElevation\obj\Debug\WorkWithElevation.pdb
-C:\ProgramData\Autodesk\Revit\Macros\2019\Revit\AppHookup\WorkWithElevation\Source\WorkWithElevation\obj\Debug\WorkWithElevation.csprojResolveAssemblyReference.cache

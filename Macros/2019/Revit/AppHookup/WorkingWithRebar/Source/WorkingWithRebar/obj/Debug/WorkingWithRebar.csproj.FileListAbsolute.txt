@@ -1,0 +1,7 @@
+C:\ProgramData\Autodesk\Revit\Macros\2019\Revit\AppHookup\WorkingWithRebar\AddIn\WorkingWithRebar.dll
+C:\ProgramData\Autodesk\Revit\Macros\2019\Revit\AppHookup\WorkingWithRebar\AddIn\WorkingWithRebar.pdb
+C:\ProgramData\Autodesk\Revit\Macros\2019\Revit\AppHookup\WorkingWithRebar\Source\WorkingWithRebar\obj\Debug\WorkingWithRebar.csprojResolveAssemblyReference.cache
+C:\ProgramData\Autodesk\Revit\Macros\2019\Revit\AppHookup\WorkingWithRebar\Source\WorkingWithRebar\obj\Debug\WorkingWithRebar.dll
+C:\ProgramData\Autodesk\Revit\Macros\2019\Revit\AppHookup\WorkingWithRebar\Source\WorkingWithRebar\obj\Debug\WorkingWithRebar.pdb
+C:\ProgramData\Autodesk\Revit\Macros\2019\Revit\AppHookup\WorkingWithRebar\Source\WorkingWithRebar\obj\Debug\WorkingWithRebar.SettingDialog.resources
+C:\ProgramData\Autodesk\Revit\Macros\2019\Revit\AppHookup\WorkingWithRebar\Source\WorkingWithRebar\obj\Debug\WorkingWithRebar.csproj.GenerateResource.Cache

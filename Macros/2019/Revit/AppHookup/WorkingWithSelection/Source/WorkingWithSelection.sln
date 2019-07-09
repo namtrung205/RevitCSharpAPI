@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.2.0.8783
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkingWithSelection", "WorkingWithSelection\WorkingWithSelection.csproj", "{EA9A5126-3397-4FC8-9413-13C4E518CABC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA9A5126-3397-4FC8-9413-13C4E518CABC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA9A5126-3397-4FC8-9413-13C4E518CABC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA9A5126-3397-4FC8-9413-13C4E518CABC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA9A5126-3397-4FC8-9413-13C4E518CABC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+EndGlobal

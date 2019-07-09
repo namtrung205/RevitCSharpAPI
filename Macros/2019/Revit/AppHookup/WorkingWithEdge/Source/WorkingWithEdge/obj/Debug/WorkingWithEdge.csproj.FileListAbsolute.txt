@@ -1,0 +1,5 @@
+C:\ProgramData\Autodesk\Revit\Macros\2019\Revit\AppHookup\WorkingWithEdge\AddIn\WorkingWithEdge.dll
+C:\ProgramData\Autodesk\Revit\Macros\2019\Revit\AppHookup\WorkingWithEdge\AddIn\WorkingWithEdge.pdb
+C:\ProgramData\Autodesk\Revit\Macros\2019\Revit\AppHookup\WorkingWithEdge\Source\WorkingWithEdge\obj\Debug\WorkingWithEdge.csprojResolveAssemblyReference.cache
+C:\ProgramData\Autodesk\Revit\Macros\2019\Revit\AppHookup\WorkingWithEdge\Source\WorkingWithEdge\obj\Debug\WorkingWithEdge.dll
+C:\ProgramData\Autodesk\Revit\Macros\2019\Revit\AppHookup\WorkingWithEdge\Source\WorkingWithEdge\obj\Debug\WorkingWithEdge.pdb
