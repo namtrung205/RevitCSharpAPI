@@ -1,0 +1,9 @@
+E:\DEV\C# Projects\Revit C# Addin\00. App Test\MyAppV1\MyAppV1\bin\Debug\MyAddinV1.dll
+E:\DEV\C# Projects\Revit C# Addin\00. App Test\MyAppV1\MyAppV1\bin\Debug\MyAddinV1.pdb
+E:\DEV\C# Projects\Revit C# Addin\00. App Test\MyAppV1\MyAppV1\obj\Debug\MyAppV1.csprojResolveAssemblyReference.cache
+E:\DEV\C# Projects\Revit C# Addin\00. App Test\MyAppV1\MyAppV1\obj\Debug\MyAddinV1.dll
+E:\DEV\C# Projects\Revit C# Addin\00. App Test\MyAppV1\MyAppV1\obj\Debug\MyAddinV1.pdb
+E:\DEV\C# Projects\Revit C# Addin\00. App Test\MyAppV1\MyAppV1\obj\Debug\MyAppV1.DimSettingForm.resources
+E:\DEV\C# Projects\Revit C# Addin\00. App Test\MyAppV1\MyAppV1\obj\Debug\MyAppV1.Properties.Resources.resources
+E:\DEV\C# Projects\Revit C# Addin\00. App Test\MyAppV1\MyAppV1\obj\Debug\MyAppV1.csproj.GenerateResource.Cache
+E:\DEV\C# Projects\Revit C# Addin\00. App Test\MyAppV1\MyAppV1\obj\Debug\MyAppV1.EditDimension_Form.resources
